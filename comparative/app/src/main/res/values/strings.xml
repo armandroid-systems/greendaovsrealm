@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Comparative</string>
+    <string name="app_title_menu">Comparative between GreenDao ORM and RalmIO</string>
+    <!--BUTTONS-->
+    <string name="button_greendao">GreenDao ORM</string>
+    <string name="button_realm">RealmIO</string>
+    <!--LABELS-->
+    <string name="label_time_expended">Write 5k records in: </string>
 </resources>
